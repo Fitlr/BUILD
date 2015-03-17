@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8EE91034-52B4-4E1D-9A72-F91B0B0AC715</string>
+	<key>IDESourceControlProjectName</key>
+	<string>fitlrDataTestingPlayground</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4BB712CA8F4F7320534AEBD570DF9C9A26450EED</key>
+		<string>https://github.com/Fitlr/v00.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>fitlrDataTestingPlayground.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4BB712CA8F4F7320534AEBD570DF9C9A26450EED</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Fitlr/v00.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4BB712CA8F4F7320534AEBD570DF9C9A26450EED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4BB712CA8F4F7320534AEBD570DF9C9A26450EED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>v00</string>
+		</dict>
+	</array>
+</dict>
+</plist>
