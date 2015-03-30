@@ -19,7 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         //Parse keys
         Parse.setApplicationId("gFfrDr1tzoXsFkwCHO704CEeX0yxRSuH4ElpX1wx", clientKey: "pSRR6NN9A2ZmMlF6j7pDVYiEb2vGZRXL9u99QLpG")
-        
+        /*
         var gameScore = PFObject(className:"GameScore")
         gameScore["score"] = 1337
         gameScore["playerName"] = "Matt Plott"
@@ -32,7 +32,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 // There was a problem, check error.description
             }
         }
-
+*/
         
         
         
